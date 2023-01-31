@@ -20,4 +20,12 @@
 ![5.1](img/5.1.png)
 ![5.2](img/5.2.png)
 
-# Nota: Si quieres actualizar u modificar proximamente tu proyecto, accede a source control. 
+
+# 6. Para actualizar el repositorio, nos dirigiremos a source control.
+![6](img/6.png)
+
+# 7. Ya ahi, daremos clic en el signo + para subir nuestros cambios, y luego confirmaremos los cambios mediante el boton commit.
+![7](img/7.png)
+
+# 8. Por ultimo daremos clic en: sincronizar cambios.
+![8](img/8.png)
