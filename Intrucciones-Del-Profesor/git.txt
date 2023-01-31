@@ -1,0 +1,45 @@
+Ejemplo.....
+sudo apt install git.- "este comando me permite iniciar el servicio de GIT"
+anexar pantalla 
+
+git --version
+
+vamor a crear una cuenta de git repositorio puede ser website
+
+creamos en ubuntu una carpeta website
+
+touch hello.txt
+
+git init
+
+git status
+
+git add .
+
+git status
+
+git commit -m "mi primer commit"
+
+git config --global user.email "luisgtzalfaro@gmail.com"
+
+git config --global  user.name "luisgtzalfaro"
+
+git config user.name
+
+git config user.email
+
+
+
+git config commint -m "mi primer commit"
+
+(se va observar, que un archivo ha sido insertado hizo un cambio.)
+
+ahora vamos a dar el remote ir a la pagina github de la cuenta que se creo
+
+git remote add origin "http://github.com/galfaro/000"
+
+git push -u origin master
+
+te va pedir  el usuario y el password de la cuenta de github y enter...
+
+ir a github que ya esta actualizado...
