@@ -7,6 +7,7 @@
 ![2](img/2.png)
 
 # 3. Abrimos vscode e iniciamos sesión.
+### Nota: Es necesario tener una cuenta de github ya creada.
 ![3](img/3.png)
 
 # 4. Asignamos los siguientes parametros de configuración:
@@ -29,3 +30,6 @@
 
 # 8. Por ultimo daremos clic en: sincronizar cambios.
 ![8](img/8.png)
+
+# Y listo, ya podremos vizualizar nuestro repositorio en github: https://github.com/Gilberto-Guzman/Git-y-Github-En-Ubuntu
+![9](img/9.png)
