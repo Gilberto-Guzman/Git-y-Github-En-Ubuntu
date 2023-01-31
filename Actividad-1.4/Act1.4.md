@@ -10,7 +10,7 @@
 ### Nota: Es necesario tener una cuenta de github ya creada.
 ![3](img/3.png)
 
-# 4. Asignamos los siguientes parametros de configuración:
+# 4. Asignamosasdasd los siguientes parametros de configuración:
 ![4](img/4.png)
 
     git config --global user.email "josegilbertoguzmangutierrez@gmail.com"
